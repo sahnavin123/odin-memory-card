@@ -1,4 +1,4 @@
-import "../src/styles/App.css";
+import "./App.css";
 import React from "react";
 import { useState, useEffect } from "react";
 import Card from "./components/Card";
